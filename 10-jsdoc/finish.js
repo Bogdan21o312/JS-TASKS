@@ -12,3 +12,16 @@
  *
  * 4. Вызовите функцию
  */
+
+/**
+ * Returns the difference of two numbers
+ * @param {number} a
+ * @param {number} b
+ * @returns {number} Number difference
+ */
+
+const myFunction = (a, b) => {
+    return a - b
+}
+
+console.log(myFunction(10, 1))
