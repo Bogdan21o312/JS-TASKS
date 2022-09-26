@@ -10,3 +10,11 @@
  */
 
 const myCities = ['London', 'New York', 'Singapore']
+
+const cityInfo = () => {
+    {myCities.map((item, index) => (
+        console.log(`${item} is at the index ${index} in the myCities array`)
+    ))}
+}
+
+cityInfo()
