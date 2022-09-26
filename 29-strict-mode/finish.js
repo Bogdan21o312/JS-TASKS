@@ -7,6 +7,8 @@
 
 'use strict'
 
+let a
+
 function myFunction() {
   a = 2
   return a
