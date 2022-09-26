@@ -15,3 +15,11 @@ myVariable1 = '20'
 myVariable2 = 100
 
 // Напишите код здесь
+
+parseInt(myVariable1)
+
+if (myVariable1 <= myVariable2) {
+    console.log(true)
+} else {
+
+}
