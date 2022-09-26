@@ -8,3 +8,8 @@
  */
 
 const myArray = [1, 2]
+
+myArray[10]
+
+console.log(myArray)
+console.log(myArray.length)
