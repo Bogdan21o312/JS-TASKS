@@ -6,3 +6,10 @@
  *
  * 3. Выведите в консоль длину результирующего массива
  */
+
+
+const myArray = [1, 'abc', false]
+
+myArray.push(10)
+
+console.log(myArray.length)
